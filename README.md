@@ -17,6 +17,7 @@ My projects focus on building a strong technical foundation in computer science 
 - ABC product segmentation analysis
 - N-day user retention analysis
 - Rolling retention metrics
+  
 You can explore these projects in my repository:
 ➡️ **pet-projects**
 ## 🌍 Languages
