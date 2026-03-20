@@ -19,7 +19,7 @@ My projects focus on building a strong technical foundation in computer science 
 - Rolling retention metrics
   
 You can explore these projects in my repository:
-➡️ [**pet-projects**] (https://github.com/panlvr/pet-projects)
+➡️ **[pet-projects](https://github.com/panlvr/pet-projects)**
 ## 🌍 Languages
 Russian — Native  
 English — C1  
