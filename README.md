@@ -23,8 +23,9 @@ You can explore these projects in my repository:
 ## 🌍 Languages
 Russian — Native  
 English — C1  
-Mandarin Chinese — HSK 5 
+Mandarin Chinese — HSK 5    
 German — A2
+
 ## 📚 Currently Learning
 - Data analytics and SQL
 - Computer science fundamentals
