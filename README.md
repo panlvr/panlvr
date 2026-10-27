@@ -3,9 +3,9 @@ I'm a graduate in International Studies with a focus on global business and Asia
 My work combines analytical thinking, programming, and business insight. I’m particularly interested in how data and technology can support strategic decision-making in international markets.
 ## 🔧 Technical Skills
 **Programming:** C, Python, SQL  
-**Web:** HTML, CSS, JavaScript  
+**Web:** HTML, CSS  
 **Concepts:** Data structures, algorithms, database design, basic cryptography  
-**Tools:** Git, Excel data analysis
+**Tools:** Git, Excel, data analysis
 ## 💻 Projects
 My projects focus on building a strong technical foundation in computer science and data analytics.
 **C Programming**
@@ -23,9 +23,8 @@ You can explore these projects in my repository:
 ## 🌍 Languages
 Russian — Native  
 English — C1  
-Mandarin Chinese — HSK 4  
-German — A1  
-French — A1
+Mandarin Chinese — HSK 5 
+German — A2
 ## 📚 Currently Learning
 - Data analytics and SQL
 - Computer science fundamentals
