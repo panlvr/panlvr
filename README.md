@@ -18,8 +18,10 @@ My projects focus on building a strong technical foundation in computer science 
 - N-day user retention analysis
 - Rolling retention metrics
   
-You can explore these projects in my repository:
+You can explore these and other projects in my repositories:
 ➡️ **[pet-projects](https://github.com/panlvr/pet-projects)**
+➡️ **[pet-projects](https://github.com/panlvr/Student_analytics)**
+
 ## 🌍 Languages
 Russian — Native  
 English — C1  
